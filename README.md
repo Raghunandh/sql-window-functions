@@ -1,7 +1,9 @@
 # sql-window-functions
-This Repository contains SQL queries written using Window Functions. It is a tutorial of all the window functions in SQL which starts at a very basic level and goes up to advanced querying just by using window functions. 
+This Repository contains SQL queries written using Window Functions. This is part of a course from Vertabelo Academy to gain deeper understanding how window functions work and when and how to use them. This tutorial in SQL starts at a very basic level and goes up to advanced querying just by using window functions. 
 
-All the datasets used and the queries are stored in different folders shown below. These folders are created based on the different window functions available and their uses.
+All the queries are stored in different folders shown below. These folders are created based on the different window functions available and their uses.
+
+The database for all the topics are stored in one excel file named "Database".
 
 1. Introduction
 2. OVER()
